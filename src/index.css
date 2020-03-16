@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.title {
+  text-align: center;
+}
+
+li {
+  text-align: left;
+}
+
+h4 {
+  text-align: left;
+}
+
+span {
+color: blue;
+}
+.tab {
+  margin: margin-left;
+  border-width: 5px;
+  border-color: black;
+  border-style:solid;
+
+}
